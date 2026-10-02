@@ -1,5 +1,5 @@
-#include <stdio.io>
-#include <stdlib.io>
+#include <stdio.h>
+#include <stdlib.h>
 
 int main (){
   printf("Olá Mundo! Turma DS 2026\n")
